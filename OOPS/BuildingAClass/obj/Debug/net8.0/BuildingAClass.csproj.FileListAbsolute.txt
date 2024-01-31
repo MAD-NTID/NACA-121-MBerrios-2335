@@ -1,0 +1,14 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\bin\Debug\net8.0\BuildingAClass.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\bin\Debug\net8.0\BuildingAClass.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\bin\Debug\net8.0\BuildingAClass.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\bin\Debug\net8.0\BuildingAClass.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\bin\Debug\net8.0\BuildingAClass.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\refint\BuildingAClass.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\BuildingAClass.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS\BuildingAClass\obj\Debug\net8.0\ref\BuildingAClass.dll
