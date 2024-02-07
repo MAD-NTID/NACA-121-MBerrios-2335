@@ -1,4 +1,6 @@
-﻿//  Instantiate a Food
+//  Unit 08
+
+//  Instantiate a Food
 Food muffin = new Food();
 
 //  Assign values to that instance's properties
