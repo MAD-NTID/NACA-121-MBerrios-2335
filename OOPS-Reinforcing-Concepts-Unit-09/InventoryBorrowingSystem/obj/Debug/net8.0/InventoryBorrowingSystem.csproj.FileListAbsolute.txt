@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\bin\Debug\net8.0\InventoryBorrowingSystem.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\bin\Debug\net8.0\InventoryBorrowingSystem.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\bin\Debug\net8.0\InventoryBorrowingSystem.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\bin\Debug\net8.0\InventoryBorrowingSystem.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\bin\Debug\net8.0\InventoryBorrowingSystem.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\refint\InventoryBorrowingSystem.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\InventoryBorrowingSystem.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\OOPS-Reinforcing-Concepts-Unit-09\InventoryBorrowingSystem\obj\Debug\net8.0\ref\InventoryBorrowingSystem.dll
