@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\bin\Debug\net8.0\Calculation.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\bin\Debug\net8.0\Calculation.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\bin\Debug\net8.0\Calculation.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\bin\Debug\net8.0\Calculation.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\bin\Debug\net8.0\Calculation.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\refint\Calculation.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\Calculation.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit-14-UnitTesting\Calculation\obj\Debug\net8.0\ref\Calculation.dll
