@@ -1,6 +1,6 @@
 public class Alien
 {
-    private const string CAPTAIN_ROLE = "Captain", CHIEF_ROLE = "Chief Officer";
+    public const string CAPTAIN_ROLE = "Captain", CHIEF_ROLE = "Chief Officer";
 
     private string name, role;
 

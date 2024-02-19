@@ -9,8 +9,21 @@ public class Ship
     private int crewCount;
 
 
-    public int Distance { get; }
-    public int Speed { get; }
+    public int Distance 
+    { 
+        get
+        {
+            return distance;
+        } 
+    }
+
+    public int Speed 
+    { 
+        get 
+        {
+            return speed;
+        }
+    }
     public string Name { get; }
 
     public Ship()
@@ -19,6 +32,7 @@ public class Ship
         // speed = 0;
         // crewCount = 0;
         name = "Unidentified Flying Object";
+        crew = new Alien[INITIAL_CREW_CAPACITY];
     }
 
     public Ship(string name, int alienCapacity)
@@ -30,10 +44,15 @@ public class Ship
         crew = new Alien[alienCapacity];
     }
 
+    public bool IsShipFull()
+    {
+        return crewCount == crew.Length;
+    }
+
     public bool Add(Alien alien)
     {
         //  Check if there's space for the crew member to be added
-        if(crewCount == crew.Length)
+        if(IsShipFull())
             return false;
 
         //  If the new Alien's role is not of "Captain" there's no point to check if there's is a captain in the crew
@@ -43,8 +62,9 @@ public class Ship
         //  Co-signed by Gustavo, PHD lead researcher.
         if(alien.IsCaptain() || alien.IsChief())
             for(int i = 0; i < crew.Length; i++)
-                if(crew[i].IsCaptain() || crew[i].IsChief())
+                if(crew[i] !=null && crew[i].Role ==  alien.Role)
                     return false;      
+           
 
         //  Otherwise, add the alien to the crew
         for(int i = 0; i < crew.Length; i++)
@@ -52,6 +72,7 @@ public class Ship
             {
                 crew[i] = alien;
                 crewCount++;
+                break;
             }
 
         return true;
@@ -61,7 +82,7 @@ public class Ship
     {
         if(!string.IsNullOrEmpty(name))
             for(int i = 0; i < crew.Length; i++)
-                if(name.ToLower() == crew[i].Name.ToLower())
+                if(crew[i] != null && name.ToLower() == crew[i].Name.ToLower())
                 {
                     crew[i] = null;
                     crewCount--;
@@ -81,14 +102,7 @@ public class Ship
     {
         this.speed += speed;
 
-        // // int incrementedDistance = speed % 3 * INCREMENTAL_DISTANCE;
-
-        // // distance += incrementedDistance;
-
-        distance += speed % 3 * INCREMENTAL_DISTANCE;
-
-        // for(int i = 0; i < speed % 3; i++)
-        //     Fly();
+        distance += speed / 3 * INCREMENTAL_DISTANCE;
     }
 
     public override string ToString()
@@ -96,7 +110,7 @@ public class Ship
         string crews = string.Empty;
 
         for(int i = 0; i < crew.Length; i++)
-            crews += $"\n\t-{crew[i]}";
+            crews += crew[i] != null ? $"\n\t-{crew[i]}" : string.Empty;
 
         return $"Ship Name: {name}\nSpeed: {speed}\nDistance: {distance}\nTotal Crew: {crewCount}\nCrews: {crews}";
     }
