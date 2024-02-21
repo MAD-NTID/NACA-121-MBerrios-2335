@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Shapes")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+db788d2e0d1e11e25587ad97731b52e18e3f19e2")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+85b38231188d78b74c0bf96d8a344eea5cf7d95a")]
 [assembly: System.Reflection.AssemblyProductAttribute("Shapes")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Shapes")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
