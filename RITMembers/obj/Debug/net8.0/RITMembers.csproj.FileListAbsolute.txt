@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\bin\Debug\net8.0\RITMembers.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\bin\Debug\net8.0\RITMembers.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\bin\Debug\net8.0\RITMembers.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\bin\Debug\net8.0\RITMembers.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\bin\Debug\net8.0\RITMembers.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\refint\RITMembers.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\RITMembers.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\RITMembers\obj\Debug\net8.0\ref\RITMembers.dll
