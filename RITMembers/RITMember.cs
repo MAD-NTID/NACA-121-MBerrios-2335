@@ -11,6 +11,8 @@ public class RITMember : IRITMember
         UID = uid;
     }
 
+    // This is Parent clase (base class)
+    // Declare this method as virtual to allow overriding by derived classes like Student, Professor
     public virtual void Work()
     {
         Console.WriteLine($"{Name} is working as a {Role} of RIT");
