@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\bin\Debug\net8.0\int.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\bin\Debug\net8.0\int.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\bin\Debug\net8.0\int.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\bin\Debug\net8.0\int.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\bin\Debug\net8.0\int.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\refint\int.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\int.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Unit 19 Demo - MB\obj\Debug\net8.0\ref\int.dll
