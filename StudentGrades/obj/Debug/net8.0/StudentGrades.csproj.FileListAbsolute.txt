@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\bin\Debug\net8.0\StudentGrades.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\bin\Debug\net8.0\StudentGrades.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\bin\Debug\net8.0\StudentGrades.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\bin\Debug\net8.0\StudentGrades.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\bin\Debug\net8.0\StudentGrades.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\refint\StudentGrades.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\StudentGrades.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\StudentGrades\obj\Debug\net8.0\ref\StudentGrades.dll
