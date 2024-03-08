@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\bin\Debug\net8.0\FileStreams.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\bin\Debug\net8.0\FileStreams.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\bin\Debug\net8.0\FileStreams.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\bin\Debug\net8.0\FileStreams.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\bin\Debug\net8.0\FileStreams.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\refint\FileStreams.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\FileStreams.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\FileStreams\obj\Debug\net8.0\ref\FileStreams.dll
