@@ -1,4 +1,6 @@
-public class Stack<T> : IStack<T>
+using System.Collections;
+
+public class Stack<T> : IStack<T>, IEnumerable<T>
 {
     private Node<T> top;
     public int Count { get; private set; }
@@ -82,8 +84,51 @@ public class Stack<T> : IStack<T>
         Count++;
     }
 
-    public T[] ToArray()
+    //  This code allows us to do a ForEach (Iteration) over the stack
+    public IEnumerator<T> GetEnumerator()
     {
-        throw new NotImplementedException();
+        Node<T> currentTop = top;
+
+        while(currentTop is not null)
+        {
+            yield return currentTop.Data;
+
+            currentTop = currentTop.Next;
+        }
+    }
+
+    //  This tells C# to use our custom IEnumerator above rather than the stock one
+    IEnumerator IEnumerable.GetEnumerator()
+    {
+        return GetEnumerator();
+    }
+
+    public T[] ToArray() 
+    {
+        //  Create an array to hold the elements with the length from 'Count'
+        T[] elements = new T[Count];
+        int i = 0;
+
+        //  Create a copy of the 'top' Node<T>, iterate down through each Node<T>
+        Node<T> currentTop = top;
+
+        while (currentTop is not null)
+        {
+            elements[i++] = currentTop.Data;
+
+            currentTop = currentTop.Next;
+        }
+
+        //foreach (T element in top)
+        //{
+        //    elements[i++] = element;
+        //}
+
+        return elements;
+    }
+
+    public override string ToString()
+    {
+        return top is not null ? top.ToString() : "null";
     }
 }
