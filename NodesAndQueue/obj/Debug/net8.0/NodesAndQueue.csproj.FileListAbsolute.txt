@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\bin\Debug\net8.0\NodesAndQueue.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\bin\Debug\net8.0\NodesAndQueue.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\bin\Debug\net8.0\NodesAndQueue.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\bin\Debug\net8.0\NodesAndQueue.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\bin\Debug\net8.0\NodesAndQueue.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\refint\NodesAndQueue.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\NodesAndQueue.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\NodesAndQueue\obj\Debug\net8.0\ref\NodesAndQueue.dll
