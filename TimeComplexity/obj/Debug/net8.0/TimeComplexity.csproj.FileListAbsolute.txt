@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\bin\Debug\net8.0\TimeComplexity.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\bin\Debug\net8.0\TimeComplexity.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\bin\Debug\net8.0\TimeComplexity.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\bin\Debug\net8.0\TimeComplexity.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\bin\Debug\net8.0\TimeComplexity.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\refint\TimeComplexity.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\TimeComplexity.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\TimeComplexity\obj\Debug\net8.0\ref\TimeComplexity.dll
