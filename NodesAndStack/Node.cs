@@ -20,6 +20,8 @@ public class Node<T>
         Next = next;
     }
 
+    public Node(T data) : this(data, null) {}
+
     // Returns String Information about Self Node, and the Next Node
     public override string ToString()
     {
