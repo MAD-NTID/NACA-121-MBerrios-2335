@@ -1,0 +1,12 @@
+Stack
+===============
+Next: Avengers: Infinity War,2h 29min,Action
+Play: Avengers: Infinity War,2h 29min,Action
+Next: Star Wars: Episode VII - The Force Awakens,2h 18min,Fantasy
+Play: Star Wars: Episode VII - The Force Awakens,2h 18min,Fantasy
+Next: Titanic,3h 14min,Drama
+Play: Titanic,3h 14min,Drama
+Next: Avengers: Endgame,3h 1min,Action
+Play: Avengers: Endgame,3h 1min,Action
+Next: Avatar,2h 42min,Action
+Play: Avatar,2h 42min,Action

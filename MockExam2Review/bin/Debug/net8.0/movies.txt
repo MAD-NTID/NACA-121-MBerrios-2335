@@ -1,0 +1,6 @@
+Title,Duration,Category
+Avatar,2h 42min,Action
+Avengers: Endgame,3h 1min,Action
+Titanic,3h 14min,Drama,Romance
+Star Wars: Episode VII - The Force Awakens,2h 18min,Fantasy
+Avengers: Infinity War,2h 29min,Action

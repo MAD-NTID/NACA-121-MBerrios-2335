@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\bin\Debug\net8.0\MockExam2Review.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\bin\Debug\net8.0\MockExam2Review.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\bin\Debug\net8.0\MockExam2Review.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\bin\Debug\net8.0\MockExam2Review.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\bin\Debug\net8.0\MockExam2Review.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\refint\MockExam2Review.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\MockExam2Review.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MockExam2Review\obj\Debug\net8.0\ref\MockExam2Review.dll
