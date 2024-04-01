@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\bin\Debug\net8.0\InsertSortingAlgorithm.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\bin\Debug\net8.0\InsertSortingAlgorithm.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\bin\Debug\net8.0\InsertSortingAlgorithm.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\bin\Debug\net8.0\InsertSortingAlgorithm.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\bin\Debug\net8.0\InsertSortingAlgorithm.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\refint\InsertSortingAlgorithm.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\InsertSortingAlgorithm.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\InsertSortingAlgorithm\obj\Debug\net8.0\ref\InsertSortingAlgorithm.dll
