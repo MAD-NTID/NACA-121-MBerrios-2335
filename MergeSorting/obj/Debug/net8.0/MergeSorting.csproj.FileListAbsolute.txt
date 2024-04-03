@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\bin\Debug\net8.0\MergeSorting.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\bin\Debug\net8.0\MergeSorting.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\bin\Debug\net8.0\MergeSorting.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\bin\Debug\net8.0\MergeSorting.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\bin\Debug\net8.0\MergeSorting.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\refint\MergeSorting.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\MergeSorting.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MergeSorting\obj\Debug\net8.0\ref\MergeSorting.dll
