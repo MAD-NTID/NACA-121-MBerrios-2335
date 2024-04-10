@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\bin\Debug\net8.0\Dictionary2.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\bin\Debug\net8.0\Dictionary2.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\bin\Debug\net8.0\Dictionary2.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\bin\Debug\net8.0\Dictionary2.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\bin\Debug\net8.0\Dictionary2.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\refint\Dictionary2.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\Dictionary2.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Dictionary2\obj\Debug\net8.0\ref\Dictionary2.dll
