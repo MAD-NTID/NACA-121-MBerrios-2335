@@ -25,7 +25,7 @@ public class Dictionary<TKey, TValue> : IDictionary<TKey, TValue>
         int location = GetIndex(key);
 
         //  Rule of Dictionary you can't have duplicates...literally
-        if(ContainKey(key))
+        if(ContainsKey(key))
             throw new ArgumentException("Duplication Key is not allowed");
 
         IKeyValuePair<TKey, TValue> kvp = new KeyValuePair<TKey, TValue>(key, value);
@@ -40,7 +40,7 @@ public class Dictionary<TKey, TValue> : IDictionary<TKey, TValue>
         count = 0;
     }
 
-    public bool ContainKey(TKey key)
+    public bool ContainsKey(TKey key)
     {
         int index = GetIndex(key);
 
@@ -51,7 +51,13 @@ public class Dictionary<TKey, TValue> : IDictionary<TKey, TValue>
 
     public bool ContainValue(TValue value)
     {
-        throw new NotImplementedException();
+        //  Iterate the collection of KVP and compare for value, if match, return boolean
+        //  O(N)
+        foreach(IKeyValuePair<TKey, TValue> kvp in hashTable)
+            if(kvp is not null && EqualityComparer<TValue>.Default.Equals(kvp.Value, value))
+                return true;
+
+        return false;
     }
 
     public IKeyValuePair<TKey, TValue> Get(TKey key)
@@ -80,7 +86,7 @@ public class Dictionary<TKey, TValue> : IDictionary<TKey, TValue>
 
     public bool Remove(TKey key)
     {
-        if(!ContainKey(key))
+        if(!ContainsKey(key))
             return false;
 
         int index = GetIndex(key);
