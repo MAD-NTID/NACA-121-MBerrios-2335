@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\bin\Debug\net8.0\BICArrayList.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\bin\Debug\net8.0\BICArrayList.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\bin\Debug\net8.0\BICArrayList.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\bin\Debug\net8.0\BICArrayList.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\bin\Debug\net8.0\BICArrayList.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\refint\BICArrayList.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\BICArrayList.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICArrayList\obj\Debug\net8.0\ref\BICArrayList.dll

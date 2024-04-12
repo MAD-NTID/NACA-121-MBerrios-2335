@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\bin\Debug\net8.0\BICStack.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\bin\Debug\net8.0\BICStack.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\bin\Debug\net8.0\BICStack.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\bin\Debug\net8.0\BICStack.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\bin\Debug\net8.0\BICStack.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\refint\BICStack.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\BICStack.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICStack\obj\Debug\net8.0\ref\BICStack.dll

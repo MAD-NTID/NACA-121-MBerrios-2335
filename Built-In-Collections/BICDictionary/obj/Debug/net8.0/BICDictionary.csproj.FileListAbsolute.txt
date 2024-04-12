@@ -1,0 +1,15 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\bin\Debug\net8.0\BICDictionary.exe
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\bin\Debug\net8.0\BICDictionary.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\bin\Debug\net8.0\BICDictionary.runtimeconfig.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\bin\Debug\net8.0\BICDictionary.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\bin\Debug\net8.0\BICDictionary.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\refint\BICDictionary.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\BICDictionary.genruntimeconfig.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\Built-In-Collections\BICDictionary\obj\Debug\net8.0\ref\BICDictionary.dll
