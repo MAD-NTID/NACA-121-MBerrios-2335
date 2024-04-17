@@ -1,0 +1,12 @@
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\bin\Release\net8.0\MyPackage.deps.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\bin\Release\net8.0\MyPackage.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\bin\Release\net8.0\MyPackage.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.AssemblyInfoInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.AssemblyInfo.cs
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.csproj.CoreCompileInputs.cache
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.sourcelink.json
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\refint\MyPackage.dll
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\MyPackage.pdb
+C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\obj\Release\net8.0\ref\MyPackage.dll

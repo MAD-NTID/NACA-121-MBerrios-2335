@@ -1,0 +1,16 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<package xmlns="http://schemas.microsoft.com/packaging/2012/06/nuspec.xsd">
+  <metadata>
+    <id>NACA.4.17.24.Test</id>
+    <version>1.0.0</version>
+    <authors>Students</authors>
+    <description>Package Description</description>
+    <repository type="git" commit="dd4395b9c621ea45e98a25af8f142e1cd01d09b5" />
+    <dependencies>
+      <group targetFramework="net8.0" />
+    </dependencies>
+  </metadata>
+  <files>
+    <file src="C:\Users\mxbics\Desktop\NACA-121-MBerrios-2335\MyPackage\bin\Release\net8.0\MyPackage.dll" target="lib\net8.0\MyPackage.dll" />
+  </files>
+</package>
