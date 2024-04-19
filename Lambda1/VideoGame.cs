@@ -41,15 +41,22 @@ public class VideoGame
     }
 
     //  Let's set up a Statement Lambda
-    public Func<VideoGame, bool> IsOlderThan
+    //  This is the way to do it using a Property
+    //public Func<VideoGame, bool> IsOlderThan
+    //{
+    //    get
+    //    {
+    //        return (VideoGame vg) => {
+    //            return year < vg.Year;
+    //        };
+    //    }   
+    //}
+
+    //  This is the way to do it without using a Property
+    public Func<VideoGame, bool> IsOlderThan => (vg) =>
     {
-        get
-        {
-            return (VideoGame vg) => {
-                return year < vg.Year;
-            };
-        }   
-    }
+        return Year < vg.Year;
+    };
 
     public override string ToString()
     {
