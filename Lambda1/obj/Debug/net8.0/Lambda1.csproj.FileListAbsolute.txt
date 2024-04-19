@@ -1,0 +1,15 @@
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\bin\Debug\net8.0\Lambda1.exe
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\bin\Debug\net8.0\Lambda1.deps.json
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\bin\Debug\net8.0\Lambda1.runtimeconfig.json
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\bin\Debug\net8.0\Lambda1.dll
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\bin\Debug\net8.0\Lambda1.pdb
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.AssemblyInfoInputs.cache
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.AssemblyInfo.cs
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.csproj.CoreCompileInputs.cache
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.sourcelink.json
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.dll
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\refint\Lambda1.dll
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.pdb
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\Lambda1.genruntimeconfig.cache
+C:\Users\micha\source\repos\MAD-NTID\NACA-121-MBerrios-2335\Lambda1\obj\Debug\net8.0\ref\Lambda1.dll
