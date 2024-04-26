@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "3TnaJ2F53+u7vatwL5hj4cXnV7CtRyEwWXM0FpNIwFv/yQg130arB5qYlswaG0Dskw1C+UDrmT7paVqZDyeZHw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\mxbics\\Desktop\\NACA-121-MBerrios-2335\\StudentAttendanceSystem\\StudentAttendanceSystem.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\mxbics\\.nuget\\packages\\newtonsoft.json\\13.0.3\\newtonsoft.json.13.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}
